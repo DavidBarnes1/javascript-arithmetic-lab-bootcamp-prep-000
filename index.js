@@ -24,8 +24,9 @@ function makeInt(n){
  return parseInt(n, 10) 
   
 }
-var n = 'sldkjflksjf'
+
 function preserveDecimal(n){
   return parseFloat(2.222)
+  return parseInt (n, 10)
   
 }
